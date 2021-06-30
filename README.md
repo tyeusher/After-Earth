@@ -1,9 +1,9 @@
 
 
 
- ## My audience will be inndividuals that are interested in relocating to mars.
+ ## Audience
  
-I want to create a Web Application that displays homes to buy and some restaurants and shoppng locations on mars.s
+ My audience will be inndividuals that are interested in relocating to mars. I want to create a Web Application that displays homes to buy and some restaurants and shoppng locations on mars.s
 
 ## Elevator Pitch
 Hi, my name is Tyrone Usher and I have always loved interacting with computers.  While surfing online,
