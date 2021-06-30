@@ -2,7 +2,7 @@
 
 
  ## My audience will be inndividuals that are interested in relocating to mars.
-==================================================================================
+ 
 I want to create a Web Application that displays homes to buy and some restaurants and shoppng locations on mars.s
 
 ## Elevator Pitch
